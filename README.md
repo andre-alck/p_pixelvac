@@ -23,8 +23,6 @@ Para obter a versão executável do jogo, baixe o arquivo `pixelvac.zip`, extrai
 
 Caso tenha curiosidade para saber como o jogo funciona, também é possível realizar o download do projeto `pixelvac.yyz` e abrí-lo por meio da plataforma Game Maker Studio 2.
 
-E-mail para contato: andrealck1@gmail.com
-
 <br><strong>GLHF!</strong>
 
 <img src="annie.png">
