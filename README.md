@@ -1,17 +1,11 @@
 # PIXEL-VAC
 
-<!--
-TODO:
-    GIF - LOGO
-    ANNIE - FINAL
--->
-
 Ajude Annie a encontrar a vacina enquanto toma as precauções adequadas para se proteger de um novo vírus!
 <img src="logo.gif">
 
 PIXEL-VAC é um jogo criado para o Trabalho de Final de Curso do <a href="https://slt.ifsp.edu.br/">IFSP - Campus Salto</a>. O projeto foi desenvolvido utilizando a game engine <a href="https://www.yoyogames.com/en/get">Game Maker Studio 2</a>.
 
-Assista a apresentação do grupo: https://www.youtube.com/watch?v=aH1ZUmARARY&ab_channel=GustavoHenrique
+Assista a apresentação do grupo: https://youtu.be/aH1ZUmARARY
 <br><br>
 
 ## Instalação
